@@ -1,0 +1,2 @@
+# fastfetch-config
+reddit things
